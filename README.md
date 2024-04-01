@@ -4,11 +4,11 @@ Passionate about development, security, and cloud computing, I am dedicated to c
 
 ## Education
 
-- **École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT)**
+- **National Higher School of Engineers of Tunis - ENSIT (2023-Present)**
   - 1st year Computer Engineering student
 
-- **Institut Préparatoire aux Études d'Ingénieurs d'El Manar (2021-2023)**
-  - Cycle Préparatoire PT
+- **Preparatory Institute for Engineering Studies of El Manar - IPEIEM (2021-2023)**
+  - PT Preparatory Cycle
   - Graduated: June 2023
 
 ## Skills
