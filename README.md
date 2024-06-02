@@ -15,8 +15,8 @@ Passionate about development, security, and cloud computing, I am dedicated to c
 
 ### Programming Languages
 - **Problem Solving**: Python, C, C++
-- **Web Development**: HTML, CSS, JavaScript, Flask
-- **Database**: SQLite3, Oracle, MySQL
+- **Web Development**: HTML, CSS, JavaScript, Flask, React
+- **Database**: SQLite3, Oracle, MySQL, PostgreSQL
 - **Face Recognition**: Familiar with face_recognition library
 - **Operating Systems**: Linux
 
