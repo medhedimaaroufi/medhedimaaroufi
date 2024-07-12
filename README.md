@@ -5,7 +5,7 @@ Passionate about development, security, and cloud computing, I am dedicated to c
 ## Education
 
 - **National Higher School of Engineers of Tunis - ENSIT (2023-Present)**
-  - 1st year Computer Engineering student
+  - 2nd year Computer Engineering student
 
 - **Preparatory Institute for Engineering Studies of El Manar - IPEIEM (2021-2023)**
   - PT Preparatory Cycle
@@ -15,8 +15,8 @@ Passionate about development, security, and cloud computing, I am dedicated to c
 
 ### Programming Languages
 - **Problem Solving**: Python, C, C++
-- **Web Development**: HTML, CSS, JavaScript, Flask, React
-- **Database**: SQLite3, Oracle, MySQL, PostgreSQL
+- **Web Development**: HTML, CSS, JavaScript, Flask, React, Next.js
+- **Database**: SQLite3, Oracle, MySQL, PostgreSQL, MongoDB
 - **Face Recognition**: Familiar with face_recognition library
 - **Operating Systems**: Linux
 
