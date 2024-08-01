@@ -15,10 +15,9 @@ Passionate about development, security, and cloud computing, I am dedicated to c
 
 ### Programming Languages
 - **Problem Solving**: Python, C, C++
-- **Web Development**: HTML, CSS, JavaScript, Flask, React, Next.js
+- **Web Development**: HTML, CSS, JavaScript, Flask, React, Next.js, Tailwind CSS, TypeScript
 - **Database**: SQLite3, Oracle, MySQL, PostgreSQL, MongoDB
 - **Face Recognition**: Familiar with face_recognition library
-- **Operating Systems**: Linux
 
 ### Other Skills
 - **Version Control**: Proficient in Git for efficient management of source code versions and collaborative projects.
