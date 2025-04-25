@@ -28,4 +28,4 @@ Passionate about development, security, and cloud computing, I am dedicated to c
 ## Contact Information
 
 - **Email**: [medhedimaaroufi@gmail.com](mailto:medhedimaaroufi@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mohamed-hedi-maaroufi-72a096228/)https://www.linkedin.com/in/mohamed-hedi-maaroufi-72a096228/)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/mohamed-hedi-maaroufi-72a096228/)https://www.linkedin.com/in/mohamed-hedi-maaroufi-72a096228/)
